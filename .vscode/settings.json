@@ -1,0 +1,14 @@
+{
+    "editor.suggestOnTriggerCharacters": false,
+    "terminal.integrated.suggest.suggestOnTriggerCharacters": false,
+    "editor.inlineSuggest.experimental.triggerCommandOnProviderChange": false,
+    "workbench.quickOpen.closeOnFocusLost": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "github.copilot.chat.copilotDebugCommand.enabled": false,
+    "C_Cpp.copilotHover": "disabled",
+    "github.copilot.nextEditSuggestions.enabled": false,
+    "github.copilot.chat.edits.newNotebook.enabled": false
+}
